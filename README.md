@@ -1,4 +1,4 @@
-# gitHalper's Profile
+# gaurav-sunthwal's Profile
 
 # 💫 About Me:
 
@@ -11,53 +11,43 @@
 
 # 🌐 Socials:
 
-![facebook](https://img.shields.io/badge/gitHalper-171717?logo=facebook&logoColor=white)
-![Discord](https://img.shields.io/badge/gitHalper-171717?logo=Discord&logoColor=white)
-![Linkedin](https://img.shields.io/badge/in/gitHalper-171717?logo=Linkedin&logoColor=white)
-![Codepen](https://img.shields.io/badge/gitHalper-171717?logo=Codepen&logoColor=white)
-![Youtube](https://img.shields.io/badge/@gitHalper-171717?logo=Youtube&logoColor=white)
-![Reddit](https://img.shields.io/badge/gitHalper-171717?logo=Reddit&logoColor=white)
-![Twitch](https://img.shields.io/badge/gitHalper-171717?logo=Twitch&logoColor=white)
-![Mastodon](https://img.shields.io/badge/gitHalper-171717?logo=Mastodon&logoColor=white)
-![Quora](https://img.shields.io/badge/gitHalper-171717?logo=Quora&logoColor=white)
+[![facebook](https://img.shields.io/badge/gaurav-sunthwal-171717?logo=facebook&logoColor=white)](https://facebook.com/gaurav-sunthwal)
+[![instagram](https://img.shields.io/badge/gaurav_sunthwal-171717?logo=instagram&logoColor=white)](https://instagram.com/gaurav_sunthwal)
+[![Discord](https://img.shields.io/badge/gaurav-sunthwal-171717?logo=Discord&logoColor=white)](https://Discord.com/gaurav-sunthwal)
+[![Linkedin](https://img.shields.io/badge/in/gaurav-sunthwal-171717?logo=Linkedin&logoColor=white)](https://Linkedin.com/in/gaurav-sunthwal)
+[![Codepen](https://img.shields.io/badge/gaurav-sunthwal-171717?logo=Codepen&logoColor=white)](https://Codepen.com/gaurav-sunthwal)
+[![Youtube](https://img.shields.io/badge/@gaurav-sunthwal-171717?logo=Youtube&logoColor=white)](https://Youtube.com/@gaurav-sunthwal)
+[![StackOverflow](https://img.shields.io/badge/gaurav-sunthwal-171717?logo=StackOverflow&logoColor=white)](https://StackOverflow.com/gaurav-sunthwal)
+[![Reddit](https://img.shields.io/badge/gaurav-sunthwal-171717?logo=Reddit&logoColor=white)](https://Reddit.com/gaurav-sunthwal)
 # 💻 Tech Stack:
 
-![React](https://skillicons.dev/icons?i=react)
-![Electron](https://skillicons.dev/icons?i=electron)
-![Django](https://skillicons.dev/icons?i=django)
-![Wordpress](https://skillicons.dev/icons?i=wordpress)
-![Vercel](https://skillicons.dev/icons?i=vercel)
-![Unity](https://skillicons.dev/icons?i=unity)
-![Ubuntu](https://skillicons.dev/icons?i=ubuntu)
-![Nodejs](https://skillicons.dev/icons?i=nodejs)
-![Npm](https://skillicons.dev/icons?i=npm)
-![Fastapi](https://skillicons.dev/icons?i=fastapi)
-![Gtk](https://skillicons.dev/icons?i=gtk)
+![Gatsby](https://skillicons.dev/icons?i=gatsby)
+![Actix](https://skillicons.dev/icons?i=actix)
+![Ansible](https://skillicons.dev/icons?i=ansible)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Remix](https://skillicons.dev/icons?i=remix)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Flutter](https://skillicons.dev/icons?i=flutter)
 ![Rocket](https://skillicons.dev/icons?i=rocket)
-![Linkedin](https://skillicons.dev/icons?i=linkedin)
-![Atom](https://skillicons.dev/icons?i=atom)
-![Arduino](https://skillicons.dev/icons?i=arduino)
-![Apple](https://skillicons.dev/icons?i=apple)
-![Ipfs](https://skillicons.dev/icons?i=ipfs)
-![Kafka](https://skillicons.dev/icons?i=kafka)
-![Latex](https://skillicons.dev/icons?i=latex)
-![Linux](https://skillicons.dev/icons?i=linux)
-![Yarn](https://skillicons.dev/icons?i=yarn)
-![Vscode](https://skillicons.dev/icons?i=vscode)
-![SQLite](https://skillicons.dev/icons?i=sqlite)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![OracleDatabase](https://skillicons.dev/icons?i=oracledatabase)
-![DynamoDB](https://skillicons.dev/icons?i=dynamodb)
-![Cassandra](https://skillicons.dev/icons?i=cassandra)
+![Laravel](https://skillicons.dev/icons?i=laravel)
+![Django](https://skillicons.dev/icons?i=django)
+![React](https://skillicons.dev/icons?i=react)
+![Java](https://skillicons.dev/icons?i=java)
+![Js](https://skillicons.dev/icons?i=js)
+![Scala](https://skillicons.dev/icons?i=scala)
+![Rust](https://skillicons.dev/icons?i=rust)
+![Ruby](https://skillicons.dev/icons?i=ruby)
+![Python](https://skillicons.dev/icons?i=python)
+![Haskell](https://skillicons.dev/icons?i=haskell)
+![Ableton](https://skillicons.dev/icons?i=ableton)
 # 📊 GitHub Stats:
 
-![Stats 1](https://github-readme-stats.vercel.app/api?username=gitHalper&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
+![Stats 1](https://github-readme-stats.vercel.app/api?username=gaurav-sunthwal&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
 
-![Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=gitHalper&theme=gruvbox&hide_border=false)
+![Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=gaurav-sunthwal&theme=gruvbox&hide_border=false)
 
-![Stats 3](https://github-readme-stats.vercel.app/api/top-langs/?username=gitHalper&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Stats 3](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-sunthwal&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💰 You can help me by Donating
 
-[![Buy Me a Coffee](https://img.shields.io/badge/gaurav-171717?logo=bmc&logoColor=white)](gaurav)
-
+ [![paypal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/gauravsunthwal)  [![bmc](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/gauravsunthwal) 
