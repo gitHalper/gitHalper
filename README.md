@@ -11,26 +11,36 @@
 
 # 🌐 Socials:
 
-[![X](https://img.shields.io/badge/gaurav162022-171717?logo=X&logoColor=white)](https://X.com/gaurav162022)
 [![instagram](https://img.shields.io/badge/gaurav_sunthwal-171717?logo=instagram&logoColor=white)](https://instagram.com/gaurav_sunthwal)
-[![Behance](https://img.shields.io/badge/gauravsunthwal-171717?logo=Behance&logoColor=white)](https://Behance.com/gauravsunthwal)
 [![Linkedin](https://img.shields.io/badge/in/gaurav-sunthwal-171717?logo=Linkedin&logoColor=white)](https://Linkedin.com/in/gaurav-sunthwal)
+[![Youtube](https://img.shields.io/badge/@gauravsunthwal-171717?logo=Youtube&logoColor=white)](https://Youtube.com/@gauravsunthwal)
 # 💻 Tech Stack:
 
 ![React](https://skillicons.dev/icons?i=react)
-![Java](https://skillicons.dev/icons?i=java)
-![Python](https://skillicons.dev/icons?i=python)
+![Redux](https://skillicons.dev/icons?i=redux)
+![Remix](https://skillicons.dev/icons?i=remix)
+![Threejs](https://skillicons.dev/icons?i=threejs)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![Css](https://skillicons.dev/icons?i=css)
-![Nextjs](https://skillicons.dev/icons?i=nextjs)
+![Nodejs](https://skillicons.dev/icons?i=nodejs)
+![Angular](https://skillicons.dev/icons?i=angular)
+![Github](https://skillicons.dev/icons?i=github)
+![Gitlab](https://skillicons.dev/icons?i=gitlab)
+![Git](https://skillicons.dev/icons?i=git)
+![Python](https://skillicons.dev/icons?i=python)
+![Cpp](https://skillicons.dev/icons?i=cpp)
+![Js](https://skillicons.dev/icons?i=js)
+![Java](https://skillicons.dev/icons?i=java)
+![Kotlin](https://skillicons.dev/icons?i=kotlin)
 ![Netlify](https://skillicons.dev/icons?i=netlify)
+![Vercel](https://skillicons.dev/icons?i=vercel)
 # 📊 GitHub Stats:
 
-![Stats 1](https://github-readme-stats.vercel.app/api?username=gaurav-sunthwal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)
+![Stats 1](https://github-readme-stats.vercel.app/api?username=gaurav-sunthwal&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false)
 
-![Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=gaurav-sunthwal&theme=tokyonight&hide_border=false)
+![Stats 2](https://github-readme-streak-stats.herokuapp.com/?user=gaurav-sunthwal&theme=gruvbox&hide_border=false)
 
-![Stats 3](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-sunthwal&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+![Stats 3](https://github-readme-stats.vercel.app/api/top-langs/?username=gaurav-sunthwal&theme=gruvbox&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 # 💰 You can help me by Donating
 
